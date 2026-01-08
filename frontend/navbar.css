@@ -1,0 +1,47 @@
+.navbar {
+  height: 70px;
+  background-color: #111;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 50px;
+}
+
+.logo {
+  font-size: 18px;
+  font-weight: 600;
+  color: white;
+}
+
+.logo span {
+  font-weight: 300;
+}
+
+.nav-links {
+  display: flex;
+  list-style: none;
+  gap: 30px;
+}
+
+.nav-links li {
+  cursor: pointer;
+  font-size: 14px;
+  color: #ddd;
+}
+
+.nav-links li:hover {
+  color: #fff;
+}
+
+.register-btn {
+  background-color: #b11212;
+  color: white;
+  border: none;
+  padding: 8px 18px;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.register-btn:hover {
+  background-color: #8e0f0f;
+}
