@@ -1,0 +1,19 @@
+.who {
+  padding: 80px;
+  background-color: #141414;
+  text-align: center;
+}
+
+.who h2 {
+  font-size: 32px;
+  margin-bottom: 20px;
+  color: #8e0f0f;
+}
+
+.who p {
+  max-width: 700px;
+  margin: 0 auto;
+  font-size: 16px;
+  color: #ccc;
+  line-height: 1.6;
+}

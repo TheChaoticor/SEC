@@ -1,0 +1,41 @@
+.newsletter {
+  padding: 80px;
+  background-color: #1c1c1c;
+  text-align: center;
+}
+
+.newsletter h2 {
+  font-size: 30px;
+  margin-bottom: 10px;
+  color:#8e0f0f
+}
+
+.newsletter p {
+  color: #ccc;
+  margin-bottom: 30px;
+}
+
+.newsletter-form {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+
+.newsletter-form input {
+  padding: 10px;
+  width: 260px;
+  border: none;
+  outline: none;
+}
+
+.newsletter-form button {
+  background-color: #b11212;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+.newsletter-form button:hover {
+  background-color: #8e0f0f;
+}
